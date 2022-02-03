@@ -9,14 +9,14 @@ My name is Alexander, and I'm a Front-end JS Developer 💻
 
 <h3 align = "center">
 <div align = "center">
-  <a href='#' title="JAVASCRIPT" alt="JAVASCRIPT">
-        <img src='/img/javascript.svg' width="48" height="48"/>
-  </a>
   <a href='#' title="HTML" alt="HTML">
         <img src='/img/html5.svg' width="53" height="53">
   </a>
   <a href='#' title="CSS" alt="CSS">
         <img src='/img/css.svg' width="56" height="56">
+  </a>
+  <a href='#' title="JAVASCRIPT" alt="JAVASCRIPT">
+        <img src='/img/javascript.svg' width="48" height="48"/>
   </a>
   <a href='#' title="REACT" alt="REACT">
         <img src='/img/react-original.svg' width="48" height="48">
