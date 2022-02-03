@@ -30,8 +30,8 @@ I’m currently learning JavaScript, React and improve my skills in web applicat
 
 <h2>To contact me:</h2>
 
-<a name = "telegram" href = "https://t.me/x4nex" target = "_blank" title = "Mail"><img src = "https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
-<a name = "gmail" href = "mailto:migday55@gmail.com" target = "_blank" title = "Telegram"> <img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a name = "telegram" href = "https://t.me/x4nex" target = "_blank" title = "Telegram"><img src = "https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name = "gmail" href = "mailto:migday55@gmail.com" target = "_blank" title = "Mail"> <img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <br>
 
 <!---
