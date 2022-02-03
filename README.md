@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hello There! 👋
+<br/>
 
-<!--
-**AlexanderMigday/AlexanderMigday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Alexander, and I'm a Front-end JS Developer 💻
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align = "center">🔧 Stack</h2>
+
+<h3 align = "center">
+<div align = "center">
+  <a href='#' title="JAVASCRIPT" alt="JAVASCRIPT">
+        <img src='/img/javascript.svg' width="48" height="48"/>
+  </a>
+  <a href='#' title="HTML" alt="HTML">
+        <img src='/img/html5.svg' width="53" height="53">
+  </a>
+  <a href='#' title="CSS" alt="CSS">
+        <img src='/img/css.svg' width="56" height="56">
+  </a>
+  <a href='#' title="REACT" alt="REACT">
+        <img src='/img/react-original.svg' width="48" height="48">
+  </a>
+</div>
+<br>
+</h3>
+<br/>
+I’m currently learning JavaScript, React and improve my skills in web application development. I’m looking to collaborate in new interesting projects that will help me develop and improve my skills in web development 
+<br>
+
+<h2>To contact me:</h2>
+
+<a name = "telegram" href = "https://t.me/x4nex"><img src = "https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name = "gmail" href = "migday55@gmail.com"> <img src = "https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<br>
+
+<!---
+AlexanderMigday/AlexanderMigday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
