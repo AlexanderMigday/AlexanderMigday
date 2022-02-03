@@ -2,7 +2,7 @@
 <br/>
 
 
-My name is Alexander, and I'm a Front-end JS Developer 💻
+<h2>My name is Alexander, and I'm a Front-end JS Developer 💻</h2>
 <br/>
 
 <h2 align = "center">🔧 Stack</h2>
